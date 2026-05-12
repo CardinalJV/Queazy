@@ -1,2 +1,3 @@
-# Queazy-PublicPage
-Public page of Queazy
+
+
+# Queazy
