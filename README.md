@@ -12,3 +12,25 @@
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/photokit-96x96_2x.png" alt="Logo PhotoKit" title="PhotoKit" width="68.5" height="68.5"/></a>
   
 # Queazy
+
+Queazy is an AI-powered learning companion that transforms images and documents into interactive study material. Using Apple’s on-device intelligence, Queazy extracts text from photos, documents, and camera captures, then automatically generates flashcards and quizzes to help users learn more effectively.
+
+## Features
+
+* Extract text from images in the Photo Library.
+* Capture and process text directly from the camera.
+* Import documents from the Files app.
+* Accurate OCR powered by Vision.
+* Generate intelligent flashcards from extracted content.
+* Create personalized quizzes using Foundation Models.
+* Save and organize study sessions with SwiftData.
+* Fully native SwiftUI experience.
+* Privacy-focused, with on-device AI processing.
+
+## Technical details
+
+- Langages : Swift
+- Frameworks : SwiftUI / SwiftData / Foundation Models
+- SDK : PhotoKit
+- Architecture : MV
+- Version iOS : iOS 26
