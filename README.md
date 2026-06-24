@@ -20,6 +20,10 @@ Queazy is an AI-powered learning companion that transforms images and documents 
 
 <a href="https://apps.apple.com/us/app/queazy/id6762206512">App store</a>
 
+## Screenrecord
+
+https://github.com/user-attachments/assets/9bedd664-dd97-4661-b42e-a5a3577bc0a9
+
 ## Features
 
 * Extract text from images in the Photo Library.
